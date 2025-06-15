@@ -110,7 +110,18 @@ RANDOM FOREST
 ---
 
 ## Discussion
-
+The  yield for the 15 districts  of western  Uttar Pradesh is esti
+mated in this project by using historic monthly means of
+ satellite data as predictors. Regression was carried out
+ using the  RF and  GBR algorithms. The GBR
+ model outruns RF with an R^2 of 0.59 and
+ an RMSE of  542.641. The  MODIS
+ products such as FPAR, LAI, NDVI, GPP and others have reasonable potential to
+ estimate pre-harvest yield with reasonable accuracies. FPAR and  LAI are the most important features in both the models for prediction following by others.These
+ variables directly control the photosynthetic process and
+ denote a good measure of the biomass accumulation in
+ crops, thus offering better predictions.
+ 
 
 
 
