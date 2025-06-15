@@ -44,6 +44,8 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 - **Random Forest Regressor**
 
 - <img width="462" alt="{8E388E4C-C2AC-4610-9EC0-582F68E88686}" src="https://github.com/user-attachments/assets/bb59a7a3-31d3-408d-ae8a-5497c95df1d1" />
+
+
   -Best Parameters used: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_depth': 10, 'bootstrap': True}
   - Ensemble of decision trees with bagging.
   - Good for handling high-dimensional, non-linear data.
