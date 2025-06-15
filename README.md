@@ -47,15 +47,13 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 
 
   -Best Parameters used: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 2, 'max_depth': 10, 'bootstrap': True}
-  - Ensemble of decision trees with bagging.
-  - Good for handling high-dimensional, non-linear data.
+  
 - **Gradient Boosting Regressor**
 
 <img width="463" alt="{36737836-B959-40F1-84EE-833DED73D655}" src="https://github.com/user-attachments/assets/fdfb9d86-4904-4875-8190-d7e4ac4f77a5" />
 
   -Best Parameters used: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 4, 'learning_rate': 0.05}
-  - Ensemble of weak learners trained sequentially.
-  - Usually more accurate but can overfit on small/noisy data.
+
 
 ### 3. **Model Evaluation**
 - Metrics used:
