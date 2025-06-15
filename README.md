@@ -19,7 +19,8 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 - **Time Range:** 12 months (April to March), e.g.:
   - `Apr_NDVI Mean`, `May_ET Mean`, ..., `Mar_GPP Mean`
 
----
+
+
 
 ## 🎯 Objectives
 
