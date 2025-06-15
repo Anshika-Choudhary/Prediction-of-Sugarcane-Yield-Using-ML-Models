@@ -20,7 +20,7 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
   - `Apr_NDVI Mean`, `May_ET Mean`, ..., `Mar_GPP Mean`
 
 
-
+---
 
 ## 🎯 Objectives
 
@@ -42,9 +42,15 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 
 ### 2. **Model Training**
 - **Random Forest Regressor**
+
+- <img width="462" alt="{8E388E4C-C2AC-4610-9EC0-582F68E88686}" src="https://github.com/user-attachments/assets/bb59a7a3-31d3-408d-ae8a-5497c95df1d1" />
+
   - Ensemble of decision trees with bagging.
   - Good for handling high-dimensional, non-linear data.
 - **Gradient Boosting Regressor**
+
+<img width="463" alt="{36737836-B959-40F1-84EE-833DED73D655}" src="https://github.com/user-attachments/assets/fdfb9d86-4904-4875-8190-d7e4ac4f77a5" />
+
   - Ensemble of weak learners trained sequentially.
   - Usually more accurate but can overfit on small/noisy data.
 
@@ -57,8 +63,14 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 
 ### 4. **Feature Importance**
 - Ranked the top features influencing yield predictions.
+
+- 
 RANDOM FOREST
+
 <img width="547" alt="{46FE06A6-9CD0-47D9-BF0D-965D673B3054}" src="https://github.com/user-attachments/assets/85ae2013-2bb6-4204-bbb4-87459269970a" />
+
+
+
 
 GRADIENT BOOSTING RADIANT
 <img width="514" alt="{C819542A-B652-4999-94DA-CD8E5020F0A4}" src="https://github.com/user-attachments/assets/bb6ee31c-2c9e-4ad8-84fa-3361bf89a6af" />
@@ -66,18 +78,16 @@ GRADIENT BOOSTING RADIANT
 
 
 
-
-
-
-
+---
 
 ## ⚙️ Tools & Libraries
 
 - **Python 3.10+**
-- `pandas`, `numpy`
+- `pandas`,
+-  `numpy`
 - `scikit-learn`
-- `shap`
-- `matplotlib`, `seaborn`
+- `matplotlib`,
+- `seaborn`
 
 ---
 
