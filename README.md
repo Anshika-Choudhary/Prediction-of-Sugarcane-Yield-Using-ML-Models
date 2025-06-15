@@ -70,7 +70,8 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 - 
 RANDOM FOREST
 
-<img width="547" alt="{46FE06A6-9CD0-47D9-BF0D-965D673B3054}" src="https://github.com/user-attachments/assets/85ae2013-2bb6-4204-bbb4-87459269970a" />
+<img width="541" alt="{AC1DC611-6A86-4547-BE7F-0FCF524DE515}" src="https://github.com/user-attachments/assets/3e627cc8-4ba2-4fc6-ae75-e4b094d56e3a" />
+
 
 
 
@@ -78,7 +79,8 @@ RANDOM FOREST
 
 -GRADIENT BOOSTING RADIANT
 
-<img width="514" alt="{C819542A-B652-4999-94DA-CD8E5020F0A4}" src="https://github.com/user-attachments/assets/bb6ee31c-2c9e-4ad8-84fa-3361bf89a6af" />
+<img width="514" alt="{F6C33CE1-2450-4551-BE07-899063AF7B3E}" src="https://github.com/user-attachments/assets/40fdbeb6-2eab-4b13-8a9e-3b57a96503bd" />
+
 
 
 
