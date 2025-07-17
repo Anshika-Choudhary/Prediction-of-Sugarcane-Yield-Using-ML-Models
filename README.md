@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project aims to **predict sugarcane yield** using **satellite-based vegetation indicators** across 12 months. Two ensemble machine learning models —" **Random Forest (RF)** and **Gradient Boosting Regressor (GBR)**" were used  to train predictive models on a feature set of 72 remote sensing variables.
+This project aims to **predict sugarcane yield** using **satellite-based vegetation indicators** across 12 months. Two ensemble machine learning models -" **Random Forest (RF)** and **Gradient Boosting Regressor (GBR)**" were used  to train predictive models on a feature set of 72 remote sensing variables.
 
 ---
 
