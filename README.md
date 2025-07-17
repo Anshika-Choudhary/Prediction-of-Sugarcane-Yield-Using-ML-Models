@@ -1,12 +1,12 @@
 # Prediction-of-Sugarcane-Yield-Using-ML-Models
 
-## 📌 Project Overview
+## Project Overview
 
 This project aims to **predict sugarcane yield** using **satellite-based vegetation indicators** across 12 months. Two ensemble machine learning models -" **Random Forest (RF)** and **Gradient Boosting Regressor (GBR)**" were used  to train predictive models on a feature set of 72 remote sensing variables.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Target Variable:** `SUGARCANE YIELD (Kg per ha)`
 - **Features (72 total):** Monthly means of:
@@ -22,7 +22,7 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Use **all 72 features** to train ensemble models to predict sugarcane yield.
 - Evaluate performance of:
@@ -33,7 +33,7 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
 
 ---
 
-## 🧪 Methodology
+##  Methodology
 
 ### 1. **Data preparation**
 - Features: All 72 satellite-based monthly variables.
@@ -55,14 +55,14 @@ This project aims to **predict sugarcane yield** using **satellite-based vegetat
   -Best Parameters used: {'n_estimators': 100, 'min_samples_split': 2, 'min_samples_leaf': 1, 'max_depth': 4, 'learning_rate': 0.05}
 
 
-### 3. **Model Evaluation**
+###  **Model Evaluation**
 - Metrics used:
   - R² (coefficient of determination)
   - MSE (mean squared error)
   - MAE (mean absolute error)
   - Cross-validation scores
 
-### 4. **Feature Importance**
+###  **Feature Importance**
 - Ranked the top features influencing yield predictions.
 
 - 
@@ -85,7 +85,7 @@ RANDOM FOREST
 
 ---
 
-## ⚙️ Tools & Libraries
+##  Tools & Libraries
 
 - **Python 3.10+**
 - `pandas`,
@@ -96,7 +96,7 @@ RANDOM FOREST
 
 ---
 
-## 📈 Results
+##  Results
 
 | Model         | R² Score | RMSE        | MAE         | Cross-Validated R² |
 |---------------|----------|-------------|-------------|--------------------|
